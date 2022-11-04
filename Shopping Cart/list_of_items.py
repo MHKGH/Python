@@ -49,6 +49,7 @@ class ItemList:
                         delete(item, quantity)
                     if x == "n":
                         still_delete = False
+                        still_continue = True
 
 
       

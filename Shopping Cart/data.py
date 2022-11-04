@@ -1,6 +1,6 @@
 shopping_cart = [
     {
-        "item": "Iphone11",
+        "item": "Mobile",
         "price": 500,
     },
     {
